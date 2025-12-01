@@ -6,6 +6,7 @@ DSA practice repo with optimized solutions and clear explanations.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -48,6 +49,7 @@ DSA practice repo with optimized solutions and clear explanations.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Prefix Sum
@@ -59,4 +61,8 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
