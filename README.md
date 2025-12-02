@@ -14,6 +14,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Math
 |  |
 | ------- |
@@ -21,6 +22,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [1015-smallest-integer-divisible-by-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +48,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [1590-make-sum-divisible-by-p](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3623-count-number-of-trapezoids-i](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## String
 |  |
 | ------- |
@@ -65,4 +68,8 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
