@@ -18,6 +18,7 @@ DSA practice repo with optimized solutions and clear explanations.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
