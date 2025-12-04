@@ -55,6 +55,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2211-count-collisions-on-a-road](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Prefix Sum
 |  |
@@ -73,4 +74,12 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2211-count-collisions-on-a-road) |
+## Simulation
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
