@@ -15,6 +15,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Math
 |  |
@@ -30,6 +31,7 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Greedy
 |  |
 | ------- |
@@ -65,6 +67,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [1590-make-sum-divisible-by-p](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,4 +88,16 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2211-count-collisions-on-a-road) |
+## Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Sliding Window
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
