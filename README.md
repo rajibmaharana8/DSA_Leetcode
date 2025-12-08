@@ -23,6 +23,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0007-reverse-integer](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1925-count-square-sum-triples](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -100,4 +101,8 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
