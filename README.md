@@ -16,6 +16,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3583-count-special-triplets](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Math
 |  |
@@ -54,6 +55,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [1590-make-sum-divisible-by-p](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3583-count-special-triplets](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## String
 |  |
@@ -105,4 +107,8 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1925-count-square-sum-triples) |
+## Counting
+|  |
+| ------- |
+| [3583-count-special-triplets](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3583-count-special-triplets) |
 <!---LeetCode Topics End-->
