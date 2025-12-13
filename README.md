@@ -20,6 +20,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Math
 |  |
@@ -50,6 +51,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3433-count-mentions-per-user](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,6 +66,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3531-count-covered-buildings](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## String
 |  |
@@ -72,6 +75,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2211-count-collisions-on-a-road](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3606-coupon-code-validator](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3606-coupon-code-validator) |
 ## Prefix Sum
 |  |
 | ------- |
