@@ -27,6 +27,7 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1925-count-square-sum-triples](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1925-count-square-sum-triples) |
@@ -41,6 +42,7 @@ DSA practice repo with optimized solutions and clear explanations.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0062-unique-paths) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -137,5 +139,6 @@ DSA practice repo with optimized solutions and clear explanations.
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0062-unique-paths) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
