@@ -8,6 +8,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0073-set-matrix-zeroes](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -44,6 +45,7 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0062-unique-paths) |
+| [0118-pascals-triangle](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
