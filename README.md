@@ -7,6 +7,7 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
+| [0073-set-matrix-zeroes](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -67,6 +68,7 @@ DSA practice repo with optimized solutions and clear explanations.
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -143,4 +145,8 @@ DSA practice repo with optimized solutions and clear explanations.
 | ------- |
 | [0062-unique-paths](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0062-unique-paths) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
