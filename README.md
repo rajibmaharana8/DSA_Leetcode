@@ -8,6 +8,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
@@ -45,6 +46,7 @@ DSA practice repo with optimized solutions and clear explanations.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -153,4 +155,8 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
