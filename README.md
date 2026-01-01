@@ -10,6 +10,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0031-next-permutation](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -60,6 +61,7 @@ DSA practice repo with optimized solutions and clear explanations.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3433-count-mentions-per-user](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3433-count-mentions-per-user) |
@@ -104,6 +106,7 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
 ## Trie
 |  |
