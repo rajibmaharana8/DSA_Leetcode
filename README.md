@@ -18,6 +18,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1390-four-divisors](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1390-four-divisors) |
 | [1590-make-sum-divisible-by-p](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1975-maximum-matrix-sum](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -62,6 +63,7 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1975-maximum-matrix-sum](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +164,7 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1975-maximum-matrix-sum](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
