@@ -6,6 +6,7 @@ DSA practice repo with optimized solutions and clear explanations.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0048-rotate-image) |
@@ -64,6 +65,7 @@ DSA practice repo with optimized solutions and clear explanations.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1975-maximum-matrix-sum](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Sorting
@@ -113,6 +115,7 @@ DSA practice repo with optimized solutions and clear explanations.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
