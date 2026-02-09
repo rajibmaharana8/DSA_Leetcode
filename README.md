@@ -183,4 +183,12 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
