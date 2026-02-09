@@ -120,6 +120,7 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0075-sort-colors) |
@@ -190,6 +191,7 @@ DSA practice repo with optimized solutions and clear explanations.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
