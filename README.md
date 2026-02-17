@@ -9,6 +9,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0011-container-with-most-water](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0053-maximum-subarray) |
@@ -204,5 +205,6 @@ DSA practice repo with optimized solutions and clear explanations.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
