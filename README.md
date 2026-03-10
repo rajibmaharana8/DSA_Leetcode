@@ -19,6 +19,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1390-four-divisors](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1390-four-divisors) |
@@ -115,6 +116,7 @@ DSA practice repo with optimized solutions and clear explanations.
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -157,6 +159,7 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
@@ -210,4 +213,5 @@ DSA practice repo with optimized solutions and clear explanations.
 | ------- |
 | [0035-search-insert-position](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
