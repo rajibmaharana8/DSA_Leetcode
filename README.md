@@ -89,6 +89,7 @@ DSA practice repo with optimized solutions and clear explanations.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -103,6 +104,7 @@ DSA practice repo with optimized solutions and clear explanations.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -154,6 +156,7 @@ DSA practice repo with optimized solutions and clear explanations.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
