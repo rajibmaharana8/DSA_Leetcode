@@ -110,6 +110,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
+| [1768-merge-strings-alternately](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -136,6 +137,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0141-linked-list-cycle](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
+| [1768-merge-strings-alternately](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
