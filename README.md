@@ -46,6 +46,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0007-reverse-integer](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -65,6 +66,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0042-trapping-rain-water](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -230,4 +232,8 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0039-combination-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
