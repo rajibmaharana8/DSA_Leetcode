@@ -47,6 +47,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0062-unique-paths](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1390-four-divisors](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1390-four-divisors) |
 | [1925-count-square-sum-triples](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -110,6 +111,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
