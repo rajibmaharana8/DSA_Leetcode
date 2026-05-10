@@ -6,6 +6,7 @@ DSA practice repo with optimized solutions and clear explanations.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0031-next-permutation) |
@@ -93,6 +94,7 @@ DSA practice repo with optimized solutions and clear explanations.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
