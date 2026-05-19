@@ -15,6 +15,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0042-trapping-rain-water](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0118-pascals-triangle) |
@@ -67,6 +68,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0042-trapping-rain-water](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -207,6 +209,7 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1975-maximum-matrix-sum](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Divide and Conquer
