@@ -10,6 +10,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0011-container-with-most-water](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0039-combination-sum) |
@@ -150,6 +151,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0011-container-with-most-water](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0075-sort-colors) |
