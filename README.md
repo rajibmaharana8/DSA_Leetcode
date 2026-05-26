@@ -23,6 +23,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0118-pascals-triangle](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -51,6 +52,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0062-unique-paths](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1390-four-divisors](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1390-four-divisors) |
@@ -91,6 +93,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | ------- |
 | [0015-3sum](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0268-missing-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3433-count-mentions-per-user](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3433-count-mentions-per-user) |
@@ -99,6 +102,7 @@ DSA practice repo with optimized solutions and clear explanations.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0338-counting-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -110,6 +114,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0073-set-matrix-zeroes](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
@@ -243,6 +248,7 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Backtracking
