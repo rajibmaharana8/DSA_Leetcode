@@ -34,6 +34,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [1975-maximum-matrix-sum](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3433-count-mentions-per-user) |
@@ -182,6 +183,7 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3433-count-mentions-per-user](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3433-count-mentions-per-user) |
 ## Queue
 |  |
@@ -263,6 +265,7 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
