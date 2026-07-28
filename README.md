@@ -24,6 +24,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -166,6 +167,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0141-linked-list-cycle](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
