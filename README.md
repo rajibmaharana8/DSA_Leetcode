@@ -25,6 +25,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
