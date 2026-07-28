@@ -30,6 +30,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [1018-binary-prefix-divisible-by-5](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1390-four-divisors](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1390-four-divisors) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1975-maximum-matrix-sum](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -96,6 +97,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0075-sort-colors](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0268-missing-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3433-count-mentions-per-user](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3531-count-covered-buildings) |
@@ -265,6 +267,7 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
 |  |
