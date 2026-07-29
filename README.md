@@ -22,6 +22,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0075-sort-colors](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0283-move-zeroes) |
@@ -117,6 +118,7 @@ DSA practice repo with optimized solutions and clear explanations.
 | [0001-two-sum](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0268-missing-number) |
@@ -276,4 +278,8 @@ DSA practice repo with optimized solutions and clear explanations.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rajibmaharana8/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
